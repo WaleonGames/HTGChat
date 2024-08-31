@@ -1,0 +1,10 @@
+messages:
+  welcome_new_player:
+    - "&eWitamy na serwerze HTGMC.pl!"
+    - "&aZobacz nasze tryby:"
+    - "&bBoxPVP 1.20.6 - %bungee_boxpvp%"
+    - "&bAnarchia 1.18.2 - %bungee_anarchia%"
+    - "&bSkyblock 1.20.6 - %bungee_skyblock%"
+  new_message: "&e%player_name% &awłaśnie pierwszy raz dołączył"
+  join_message: "&e%player_name% &adołączył do gry."
+  quit_message: "&c%player_name% &copuścił serwer."

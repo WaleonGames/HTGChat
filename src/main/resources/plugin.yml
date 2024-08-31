@@ -1,0 +1,4 @@
+name: HTGServer
+version: '${project.version}'
+main: pl.htgmc.htgchat.Main
+api-version: '1.20'

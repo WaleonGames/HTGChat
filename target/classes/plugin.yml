@@ -1,0 +1,4 @@
+name: HTGServer
+version: '1.2-beta'
+main: pl.htgmc.htgchat.Main
+api-version: '1.20'
